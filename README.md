@@ -9,7 +9,6 @@ I enjoy learning by **building projects** and **solving real-world problems**.
 
 ## Currently Working On
 - Java and Data Structures  
-- Engineering Mathematics and Core Subjects  
 - AI and Machine Learning Foundations  
 - System Design Fundamentals  
 - Blockchain and Smart Contract Basics  
