@@ -1,7 +1,7 @@
-<!-- TOP TYPING ANIMATION -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?
       font=Fira+Code&
       size=18&
       pause=1000&
@@ -13,23 +13,6 @@
       alt="Typing SVG" />
   </a>
 </p>
-
-<br/>
-
-<!-- NAME BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?
-    type=rect&
-    height=120&
-    text=ADITYA%20SANTOSH%20BARANDWAL&
-    fontSize=42&
-    fontAlign=50&
-    fontAlignY=55&
-    color=0:0f2027,100:203a43&
-    fontColor=00f7ff" />
-</p>
-
-<hr/>
 
 ## About Me
 
