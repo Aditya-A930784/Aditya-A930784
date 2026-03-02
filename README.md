@@ -1,16 +1,131 @@
-#  About Me:
-Hi, I’m Aditya Santosh Barandwal, an engineering student passionate about programming, robotics, automation, and blockchain technology. I enjoy learning by building projects and solving real-world problems.<br> I’m currently working on<br><br>1.Java & Data Structures<br><br>2.Engineering Mathematics & Core Subjects<br><br>3.Blockchain & Smart Contract basics<br><br>4.Robotics and Automation concepts<br><br> I’m looking to collaborate on<br><br>1.Beginner-friendly open-source projects<br><br>2.Java / DSA practice projects<br><br>3.Blockchain or Web development projects<br> I’m looking for help with<br><br>1.Advanced DSA problem-solving<br><br>2.Smart contract deployment (Ethereum / Sepolia)<br><br>3.System design basics<br> I’m currently learning<br><br>1.Data Structures & Algorithms<br><br>2.Solidity & Blockchain fundamentals<br><br>3.Robotics and Automation (CBCS syllabus)<br><br>
+<!-- Top Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&width=435&lines=I+Am+Aditya+Barandwal;+Enthusiastic+MERN%7CAI%2FML%7CSYSTEM+DESIGN" alt="Typing SVG" />
+  </a>
+</p>
 
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ADITYA%20SANTOSH%20BARANDWAL&fontAlign=50&fontAlignY=40&color=0:0f2027,100:203a43&fontColor=00f7ff&animation=fadeIn"/>
+</p>
 
-##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aditya Barandwal) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aditya Barandwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityabarandwal.0123@gamil.com) 
+<!-- Secondary Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?
+  font=JetBrains+Mono&
+  size=22&
+  duration=2600&
+  pause=600&
+  color=00F7FF&
+  center=true&
+  vCenter=true&
+  width=900&
+  lines=Engineering+Student;Programmer+and+Problem+Solver;AI+and+Machine+Learning+Enthusiast;System+Design+Learner;Building+Real+World+Systems" />
+</p>
 
-#  Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aditya-A930784&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aditya-A930784&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-A930784&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+## About Me
+
+Hi, I’m **Aditya Santosh Barandwal**, an engineering student focused on **programming, artificial intelligence, machine learning, system design, and blockchain technology**.  
+I prefer learning by **building systems**, **experimenting**, and **solving real-world problems**.
+
+### Currently Working On
+- Java and Data Structures  
+- Engineering Mathematics and Core Subjects  
+- AI and Machine Learning Fundamentals  
+- System Design Concepts  
+
+### Looking to Collaborate On
+- Beginner-friendly open-source projects  
+- Java and DSA practice projects  
+- AI/ML, System Design, or Web development projects  
+
+### Looking for Help With
+- Advanced DSA problem-solving  
+- AI/ML project guidance  
+- System design fundamentals  
+
+### Currently Learning
+- Data Structures and Algorithms  
+- AI and Machine Learning fundamentals  
+- System design and scalable architectures  
+
+---
+
+## Skills in Motion
+
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs&perline=8" />
+</p>
+
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,nodejs,express,fastapi&perline=8" />
+</p>
+
+### Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=8" />
+</p>
+
+### Tools and Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux,docker&perline=8" />
+</p>
+
+### Core Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp&perline=8" />
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-A930784&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-A930784&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya-A930784&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-A930784&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## Contribution Flow
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/aditya-barandwal">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:adityabarandwal.0123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:203a43,100:0f2027"/>
+</p>
 
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aditya-A930784&theme=radical&no-frame=false&no-bg=true&margin-w=4)
