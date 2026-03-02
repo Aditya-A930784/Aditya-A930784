@@ -1,21 +1,4 @@
-<!-- TOP TYPING ANIMATION -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?
-      font=Fira+Code&
-      size=18&
-      pause=1000&
-      color=00F7FF&
-      center=true&
-      vCenter=true&
-      width=600&
-      lines=I+Am+Aditya+Barandwal;Enthusiastic+MERN+AI%2FML+SYSTEM+DESIGN"
-      alt="Typing SVG" />
-  </a>
-</p>
 
----
 
 ## About Me
 
