@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&width=435&lines=I+Am+Aditya+Barandwal;+Enthusiastic+MERN%7CAI%2FML%7CSYSTEM+DESIGN" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&width=435&lines=I+Am+Aditya+Barandwal;+Enthusiastic+MERN%7CAI%2FML%7CSYSTEM+DESIGN" alt="Typing SVG" />
+</a>
 
 ## About Me
 
@@ -40,13 +42,14 @@ I enjoy learning by **building projects** and **solving real-world problems**.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="50"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="50"/>
 </p>
+
+---
 
 ### Databases & Cloud
 <p align="center">
