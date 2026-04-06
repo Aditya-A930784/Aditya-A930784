@@ -38,15 +38,18 @@ I enjoy learning by **building projects** and **solving real-world problems**.
 
 ### AI / Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="50"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="50"/>
+</p>
+
+<p align="center">
+  <b>Seaborn</b> (Statistical Data Visualization)
 </p>
 
 ---
